@@ -23,3 +23,7 @@ App im Terminal starten, Genre auswählen und los geht's!
 *Wirst du etwas vergleichbares entwickeln?* - Wer weiß! Aktuell ist sowas nicht geplant, aber man weiß nie, ob der Bedarf nicht doch da ist.
 
 *Mir wurde bislang keine tatsächliche Frage zu dem Projekt gestellt, also ist das quasi eine FAQ- Simulation!
+
+##### Contributing
+
+Jede Person die möchte, kann und darf sich an dem Projekt beteiligen. Feel free to add and share!
